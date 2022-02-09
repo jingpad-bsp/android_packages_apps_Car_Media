@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="browser_loading">"Carregando conteúdo…"</string>
+<string name="nothing_to_play">"Nenhuma mídia disponível aqui."</string>
+<string name="cannot_connect_to_app">"<xliff:g name="app">%s</xliff:g> não está funcionando neste momento."</string>
+<string name="unknown_media_provider_name">"Desconhecido"</string>
+<string name="unknown_error">"Ocorreu um erro"</string>
+<string name="media_browse_more">"Mais..."</string>
+<string name="media_app_title">"Mídia"</string>
+<string name="search_hint">"Pesquise músicas, artistas e mais..."</string>
+<string name="default_error_message">"Erro desconhecido do aplicativo"</string>
+<string name="fragment_playback_title">"Tocando agora"</string>
+</resources>
